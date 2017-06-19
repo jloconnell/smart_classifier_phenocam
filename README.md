@@ -15,3 +15,5 @@ vegetation cover with 96% accuracy and other object classes with accuracies rang
 Accuracy for estimating object percent cover ranged from 74 to 100%. Pixel-classification with the smart
 classifier outperformed previous approaches (i.e. indices based on average color content within ROIs) and
 reduced variance in phenology index time-series. It can be readily adapted for other applications.
+
+You can find a reproducible example to download and run these scripts over on my website: http://conservationecology.weebly.com/projects.html
